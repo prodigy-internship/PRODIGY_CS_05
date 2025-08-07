@@ -70,7 +70,7 @@ The project contains two primary modules:
 pip install scapy
 
 # Step 2: Run the packet sniffer (requires sudo/admin for raw socket access)
-python capture.py
+python main.py
 
 Educational Use Only
 ⚠️ This tool is built strictly for educational and ethical use.
@@ -82,6 +82,7 @@ Contributions, improvements, and feature enhancements are welcome! Open a pull r
 
 📄 License
 This project is released under the MIT License. See LICENSE for more details.
+
 
 
 
